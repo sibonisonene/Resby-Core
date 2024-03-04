@@ -1,6 +1,26 @@
-To do list
-1. f
-2.f
-3.f
-4.f
-ffff
+You are given an array of objects representing books
+Each book has a 'title',' author' and 'year' property
+
+Write a function that takes in this array of books and returns an object where the keys are the years and the values are arrays of book titles published in that year 
+
+your file name must follow  the pattern 2434209-lab3.js
+function name: getBookTitlesByYear
+
+export function getBookTitlesByYear(){
+   }
+
+Example:
+Input:
+   [
+      {title: "The great gatsby", author: "F. Scott Fitzegerald", year:1925},
+      {title: "To kill a mockingbird", author: "Harper Lee", year :1960},
+      {title: "1984", author: "George orwell", year: 1949},
+  ]
+
+Output:
+[ 
+    1925:  ["The great gatsby"],
+    1960: ["To kill a mockingbird"],
+    1949: [1984]
+
+]
