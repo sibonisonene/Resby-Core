@@ -25,6 +25,14 @@ Output:
 
 ]
 
+Output:
+[ 
+    1925:  ["The great gatsby"],
+    1960: ["To kill a mockingbird"],
+    1949: [1984]
+
+]
+
 
 export function getBookTitlesByYear(books) {
     const titlesByYear = {};
