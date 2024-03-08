@@ -4,8 +4,3 @@ Input:
       {title: "The gr
 
 ]
-
-
-export function getBookTitlesByYear(books) {
-    const titlesByYear = {};
-
