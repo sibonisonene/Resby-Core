@@ -12,11 +12,6 @@ Input:
       {title: "1984", author: "George orwell", year: 1949},
   ]
 
-Output:
-[ 
-    1925:  ["The great gatsby"],
-    1960: ["To kill a mockingbird"],
-    1949: [1984]
 
 ]
 
