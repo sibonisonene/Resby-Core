@@ -6,7 +6,7 @@ Write a function that takes in this array of books and returns an object where t
 your file name must follow  the pattern 2434209-lab3.js
 function name: getBookTitlesByYear
 
-export function getBookTitlesByYear(){
+
    }
 
 Example:
