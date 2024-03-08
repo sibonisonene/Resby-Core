@@ -9,10 +9,3 @@ Input:
 export function getBookTitlesByYear(books) {
     const titlesByYear = {};
 
-    books.forEach(book => {
-        if (titlesByYear[book.year]) {
-            titlesByYear[book.year].push(book.title);
-        } else {
-            titlesByYear[book.year] = [book.title];
-        }
-
