@@ -1,6 +1,2 @@
 
 Input:
-   [
-      {title: "The gr
-
-]
