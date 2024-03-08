@@ -3,11 +3,6 @@ Each book has a 'title',' author' and 'year' property
 
 Write a function that takes in this array of books and returns an object where the keys are the years and the values are arrays of book titles published in that year 
 
-your file name must follow  the pattern 2434209-lab3.js
-function name: getBookTitlesByYear
-
-
-   }
 
 Example:
 Input:
