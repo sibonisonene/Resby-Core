@@ -1,19 +1,7 @@
 
 Input:
    [
-      {title: "The great gatsby", author: "F. Scott Fitzegerald", year:1925},
-      {title: "To kill a mockingbird", author: "Harper Lee", year :1960},
-      {title: "1984", author: "George orwell", year: 1949},
-  ]
-
-
-]
-
-Output:
-[ 
-    1925:  ["The great gatsby"],
-    1960: ["To kill a mockingbird"],
-    1949: [1984]
+      {title: "The gr
 
 ]
 
