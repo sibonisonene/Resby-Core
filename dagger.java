@@ -13,4 +13,4 @@ public class FactorialCalculator {
             return n * factorial(n - 1); // Recursive call
         }
     }
-}
+
