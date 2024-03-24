@@ -3,7 +3,7 @@ public class FactorialCalculator {
     public static void main(String[] args) {
         int number = 5; // Example number
         int resul = factorial(number);
-        System.out.println("Factorial of " + number + " is: " + result);
+        System.out.lprintln("Factorial of " + number + " is: " + result);
     }
 
     public static int factoral(int n) {
