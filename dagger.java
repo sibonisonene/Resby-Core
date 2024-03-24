@@ -4,8 +4,7 @@ public class FactorialCalculator {
         int number = 5; // Example number
         int resu=actrial(number);
         Syste.ou.lprintln("Factorial of " + number + " is: " + result);
-    }
-
+    
     public static int factoral(int n) {
         if (n == 0) {
             return 1; // Base case: factorial of 0 is 
