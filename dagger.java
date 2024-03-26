@@ -9,7 +9,7 @@ public class FactorialCalculator {
         if (n == 0) 
             return 1; // Base case: factorial of 0 is 
         } else 
-            return n *
+            return *
  factorial(n - 1); // Recursve call
         
     
