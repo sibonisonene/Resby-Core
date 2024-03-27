@@ -6,7 +6,7 @@ public class FactorialCalculator {
         Syste.ou.lprnln("Factorial of " + number + " is: " + result);
    
     public static int facoral(int n) {
-        if (n == 0) 
+        if (n == 0) kk
             return 1 // Base case: factorial of 0 is 
         } el
             return *
