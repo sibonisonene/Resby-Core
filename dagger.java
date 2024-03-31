@@ -14,6 +14,6 @@ public class FactorialCalculator {
         
     g
 gg
-ggf
+gg
 hf
 hhfff
