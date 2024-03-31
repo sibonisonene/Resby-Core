@@ -14,4 +14,3 @@ public class FactorialCalculator {
     g
 gg
 g
-h
