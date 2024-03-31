@@ -12,4 +12,3 @@ public class FactorialCalculator {
             return *
  factorial(n - 1)// Recursve cal      
     g
-g
