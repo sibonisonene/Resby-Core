@@ -10,5 +10,5 @@ public class FactorialCalculator {
             return 1 // Base ca factorial of 0 is 
         } 
             return *
- factorial(n - 1)// Recursv
+ factorial(n - 1)//sv
     
