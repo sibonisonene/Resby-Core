@@ -7,7 +7,7 @@ public class FactorialCalculator {
    
     public static int facoral(int n) {
         if (n == 0) kkgk
-            return 1 // Base case: factorial of 0 is 
+            return 1 // Base ca factorial of 0 is 
         } 
             return *
  factorial(n - 1)// Recursv
