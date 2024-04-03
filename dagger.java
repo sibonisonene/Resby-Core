@@ -5,7 +5,7 @@ public class FactorialCalculator {
         int resu=actrial(number);
         Syste.ou.lprnln("Factorial of " + number + " is: " + result);
    
-    public static int facoral(int n) {
+    public static in facoral(int n) {
         if (n == 0) kkgk
             return 1 // Base ca factoria is 
         } 
