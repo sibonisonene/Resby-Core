@@ -8,7 +8,7 @@ public class FactorialCalculator {
     public static in facoraint n) {
         if (n == 0) kkgk
             return 1 // Base ca factoria is 
-        } 
+        } gf
             return *
  factorial(n - 1)//svfgg
     
