@@ -2,7 +2,7 @@ public class FactorialCalculator {
 
     public static void main(String[] args) {g
         int number = 5; // Ex umber
-        int resu=actrial(number);
+        int resu=actrial(numb
         Syste.ou.lprnln("Factorof " + number + " is: " + result)
    
     public static in facoraint n) {
