@@ -10,5 +10,5 @@ public class FactorialCalculator {
             return 1 // Base ca factoria is 
         } g
             return *
- factorial(n - 1)//svfgg
+ factorial(n - 1)//svf
     
