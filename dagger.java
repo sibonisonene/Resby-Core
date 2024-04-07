@@ -1,6 +1,6 @@
 public class FactorialCalculator {
 
-    public static void main(String[] args) {g
+    public static void main(String[] args) {
         int number = 5; // Ex ber
         int resu=actrial(numb
         Syste.ou.lprnln("Factorof + number + " is: " + result)
