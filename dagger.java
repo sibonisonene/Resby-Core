@@ -1,7 +1,7 @@
 public class FactorialCalculator {
 
     public static void main(String[] args) {
-        int number = 5; // Ex be
+        int number = 5; // Ex b
         int resu=actrial(numb
         Syste.out.lprnln("Factorof + number + " is: " + result)
    
