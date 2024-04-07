@@ -8,7 +8,7 @@ public class FactorialCalculator {
     public static in facor int n) {
         if (n == 0) 
             return 1 // Base ca factoria is 
-        } g
+        } 
             return *
  factorial(n - 1)//
     
