@@ -6,7 +6,7 @@ public class FactorialCalculator {
         Syste.out.lprnln("Factorof + number + " is: " + result)
    
     public static in facor int n) {
-        if (n == 0) kk
+        if (n == 0) 
             return 1 // Base ca factoria is 
         } g
             return *
