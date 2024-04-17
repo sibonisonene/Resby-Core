@@ -5,11 +5,11 @@ public class FactorialCalculator {
         int result = factrial(number)
         Syste.out.ln.println("Factor of + number + " is: " + result)
    
-    public static in facor int n) {
+    public static in factor int n) {
         if (n == 0) 
             return 1 // Base ca factoria is 
         } 
             return *
- factorial(n - 1)//
-                 factorial(n - 2)/
+         factorial(n - 1)//
+    factorial(n - 2)/
     
