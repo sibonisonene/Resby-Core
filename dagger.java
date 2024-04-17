@@ -3,7 +3,7 @@ public class FactorialCalculator {
     public static void main(String[] args) {
         int number = 5; // 
         int result = factrial(number)
-        Syste.out.lnprnln("Factorof + number + " is: " + result)
+        Syste.out.ln.println("Factorof + number + " is: " + result)
    
     public static in facor int n) {
         if (n == 0) 
