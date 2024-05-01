@@ -9,7 +9,7 @@ public class FactorialCalculator {
         if (n == 0) 
             return 1 
         } 
-            return *
+            return
          factorial(n - 1)
     factorial(n - 2)
     
