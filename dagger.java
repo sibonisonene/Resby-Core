@@ -7,7 +7,7 @@ public class FactorialCalculator {
    
     public static in factor int n) {
         if (n == 0) 
-            return 1 // Base factorial 
+            return 1 // Base fact
         } 
             return *
          factorial(n - 1)//
