@@ -10,6 +10,6 @@ public class FactorialCalculator {
             return 1 // Base 
         } 
             return *
-         factorial(n - 1)//
+         factorial(n - 1)
     factorial(n - 2)//
     
