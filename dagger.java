@@ -6,7 +6,7 @@ public class FactorialCalculator {
         System.out.println("Factor of " + number + " is: " + result)
    
     public static in factor int n) {
-        if (n = 0) 
+        if (n == 0) 
             return 1 
         } 
             return
