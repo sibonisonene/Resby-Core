@@ -15,7 +15,7 @@ public class FactorialCalculator {
 factorial 
     
 public class Student {
-    private String name;
+    private String 
     private int age;
     private double gpa;
 
