@@ -15,7 +15,6 @@ public class FactorialCalculator {
 factorial 
     
 public class Student {
-    private 
     private int age;
     private double gpa;
 
