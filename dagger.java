@@ -7,7 +7,7 @@ public class FactorialCalculator {
    
     public static in factor int n) {
         if (n == 0) 
-            retu
+            re
         } 
             return
          factorial(n - 1)
