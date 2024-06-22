@@ -12,7 +12,7 @@ public class FactorialCalculator {
             return
          factorial(n - 1)
     factorial(n - 2) 
-factori
+facto
     
 public class Student {
     private int;
