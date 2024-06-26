@@ -11,8 +11,7 @@ public class FactorialCalculator {
         } 
             return
          factorial(n - 1)
-    fa
-
+    
 public class Student {
     private int;
     private double gpa;
