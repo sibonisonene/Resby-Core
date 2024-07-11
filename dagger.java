@@ -7,7 +7,6 @@ public class FactorialCalculator {
    
     public static in factor int n) {
         if (n == 0) 
-            
         }
     }
     
