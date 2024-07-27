@@ -7,7 +7,7 @@ lpublic class FactorialCalculator {
    
     public static factor int n) {
         if (n == 0 ) 
-  
+
     }
     
 public class Student {
