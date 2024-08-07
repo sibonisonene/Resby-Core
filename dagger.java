@@ -6,8 +6,7 @@ lpublic class FactorialCalculator {
         System.out.println("Factor of " + number + " is: " + result)
    
     public static factor int n) {
-        if (
-    
+        if (l
     
 public class Student {
     private int;
