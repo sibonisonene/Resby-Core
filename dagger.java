@@ -5,8 +5,7 @@ lpublic class FactorialCalculator {
         int result = factrial(number)
         System.out.println("Factor of " + number + " is: " + result)
    
-    public static f
-    
+    public static 
 public class Student {
     private int;
     private double gpa;
