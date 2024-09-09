@@ -1,4 +1,4 @@
-lpublic class FactorialCalculator {
+public class FactorialCalculator {
 
     public static void main(String[] args) {
         int number = 5; 
