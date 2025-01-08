@@ -2,7 +2,7 @@ public class FactorialCalculator {
 
     public static void main(String[] args) {
         int number = 5; 
-        int result = factrial(number)
+        int result = factrial(number )
         System.out.println("Factor of " + number + " is:  " + result)
    
  
