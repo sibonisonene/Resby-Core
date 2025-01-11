@@ -37,7 +37,7 @@ public class Student {
     }
 
     public void setGpa(double gpa) {
-        this.gpa = gpa;
+        this.gpa = gp
     
 
     @Override
