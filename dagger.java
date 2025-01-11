@@ -38,7 +38,6 @@ public class Student {
 
     public void setGpa(double gpa) {
         this.gpa = gp
-    
 
     @Override
     public String toString() {
