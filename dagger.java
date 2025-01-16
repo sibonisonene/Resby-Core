@@ -6,7 +6,7 @@ public class FactorialCalculator {
         System.out.println("Factor of " + number + " is:  " + result);
    
 public class Student {
-    private 
+    
 
     public Student(String name, int age, double gpa) {
         this.name = name;
