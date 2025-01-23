@@ -20,7 +20,6 @@ public class FactorialCalculator {
     public void setAge(int age) {
         this.age = age;
     }
-
     public double getGpa() {
         return gpa;
     }
