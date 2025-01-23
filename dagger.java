@@ -3,7 +3,6 @@ public class FactorialCalculator {
         int number = 5;
         int result = factrial(number);
         System.out.println("Factor of " + number + " is:  " + result);
-
     public Student(String name, int age, double gpa) {
         this.name = name;
         this.age = age;
