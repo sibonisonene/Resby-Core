@@ -7,7 +7,7 @@ public class FactorialCalculator {
         this.name = name;
         this.age = age;
         this.gpa = gpa;
-    }
+    
     public String getName() {
         return name;
    
