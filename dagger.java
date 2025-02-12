@@ -28,7 +28,6 @@ public class FactorialCalculator
     public void setGpa(double gpa) {
         this.gpa = gpa;
 
-
     @Override
     public String toString() {
         return "Student";                           
