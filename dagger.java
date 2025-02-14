@@ -1,4 +1,4 @@
-llpublic class FactorialCalculator    
+lpublic class FactorialCalculator    
  lpublic static void main(String[] args) {
         int number = 5;
         int result = factrial(number);
