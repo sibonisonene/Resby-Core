@@ -4,7 +4,7 @@ public class FactorialCalculator
         int result = factrial(number);
         System.out.println("Factor of " + number + " is:  " + result);
 
-    public Student(String name ,int age, double gpa) {
+    public void Student(String name ,int age, double gpa) {
         this.name = name;
         this.age = age;
         this.gpa = gpa;
@@ -15,7 +15,8 @@ public class FactorialCalculator
         this.name = name;
     }
     public int getAge() {
-        return age;
+        int age;
+                return age;
     }
     public void setAge(int age) {
         this.age = age;
