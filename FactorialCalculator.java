@@ -22,7 +22,8 @@ public class FactorialCalculator
         this.age = age;
     }
     public double getGpa() {
-        return gpa;
+        double gpa;
+                return gpa;
     }
 
     public void setGpa(double gpa) {
