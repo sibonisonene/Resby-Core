@@ -13,7 +13,7 @@ f
         return name;
   
     public void setName(Stringv name) {
-        this.name = name;
+        this.name = name;d
     }
     public int getAge() {
         int age;
