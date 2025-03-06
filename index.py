@@ -2,6 +2,6 @@ import os
 import math
 import platform
 
-def hello_world()
+def hello_world():
 
 
