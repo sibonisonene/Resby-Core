@@ -3,6 +3,6 @@ import math
 import platform
 
 def hello_world():
-    print()
+    print("Hello, World")
 
 
