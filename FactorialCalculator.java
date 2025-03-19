@@ -8,7 +8,7 @@ public class FactorialCalculator
     public void Student(String name ,int age, double gpa) {
         this.name = name;
         this.age = age; 
-       this.gpa = gpa; gg
+       this.gpa = gpa; g
 
     public String getName()
         return name;
