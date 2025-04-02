@@ -15,7 +15,7 @@ public class FactorialCalculator
     public void setName(String name) {
         this.name = name;
     }
-    public int getAge() {h
+    public int getAge() {
         int age;
         return age;
     }
