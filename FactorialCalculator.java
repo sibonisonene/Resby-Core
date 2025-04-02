@@ -10,7 +10,7 @@ public class FactorialCalculator
         this.gpa = gpa; 
 
     public String getName()
-        return name;g
+        return name;
         
     public void setName(String name) {
         this.name = name;
