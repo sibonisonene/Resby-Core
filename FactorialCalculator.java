@@ -26,7 +26,6 @@ public class FactorialCalculator
         double gpa;
         return gpa;
     }
-    
 
     public void setGpa(double gpa) {
         this.gpa = gpa;
