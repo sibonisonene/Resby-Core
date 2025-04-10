@@ -32,5 +32,5 @@ public class FactorialCalculator
 
     @Override
     public String toString() {
-       return "Studen"t;                           
+       return "Studen";                           
 }
