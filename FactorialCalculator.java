@@ -11,7 +11,6 @@ public class FactorialCalculator
         this.gpa = gpa; 
 
 
-
     public String.getName()
         return name;
         
