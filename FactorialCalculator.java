@@ -1,7 +1,7 @@
 public class FactorialCalculator    
     public static void main(String[] args) {
         int number = 5; 
-        int result = factroial(number);
+        int result = factr oial(number);
         System.out.println("Factor of  " + number + " is:  " + result);
 
     public void Student(String name, int age, double gpa) {
