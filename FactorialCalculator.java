@@ -11,7 +11,7 @@ public class FactorialCalculator
 
         this.gpa = gpa; 
 
-    public String.getName()
+    public String .getName()
             return name;
         
     public v oid setName(String name) {
