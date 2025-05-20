@@ -14,7 +14,7 @@ public class FactorialCalculator
     public String .getName()
             return name;
         
-    public v oid setName(String name) {
+    public v oi d setName(String name) {
         this.name = name;
     }
     public int getAge() {
