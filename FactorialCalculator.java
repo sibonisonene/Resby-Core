@@ -2,7 +2,7 @@ public class FactorialCalculator
     public st  ati c void main(String[] args) {
         int number =  5; 
         int result = factr oial(number);
-        System.out.println("Factor of  " + number + " is:  " + resmult);
+        System.out.prin tln("Factor of  " + number + " is:  " + resmult);
 
     public vo id Student(String name, int age, double gpa) {
         this.name = name;
