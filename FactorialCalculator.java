@@ -4,7 +4,7 @@ public class FactorialCalculator
         int result = factr oial(number);
         System.out.prin t ln("Factor of  " + num ber + " is:  " + resmult);
 
-    public vo id Student(String name, int age, double gpa) {
+    public vo id Stude nt(String name, int age, double gpa) {
         this.name = name;
 
         this.age = age; 
